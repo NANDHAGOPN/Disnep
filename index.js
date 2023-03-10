@@ -3,7 +3,7 @@ let movies = [
     {
         name: 'WI  vs IND 317/8 (50)',
         des: 'Bhuvneshwar to Pollard, SIX, full, wide, arc ball. Pollard unwinds, with a full-blooded flow of his arms, and tonks over wide long-on. Sheer monster hitting this!',
-        image: 'slider 6.PNG'
+        image: 'slider 6.png'
     },
     {
         name: 'falcon and the winter soldier',
